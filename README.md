@@ -6,7 +6,7 @@
 - Modify it by your need
 - Run index.js (node index.js)
 
-  # WARNING! The file name is the actual path.
+# WARNING! The file name is the actual path.
 
 Example:
 filename.js

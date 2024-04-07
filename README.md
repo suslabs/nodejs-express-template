@@ -6,14 +6,6 @@ Usage:
 - Modify the code according to your requirements.
 - Run index.js located in the main directory (node index.js).
 
-# WARNING! The file name represents the actual path.
-
-Example:
-- filename.js
-
-You can access it using the following address:
-- IP:PORT/api/filename (IP and PORT are variables set in index.js)
-
 # File Example (location.js):
 ```
 const express = require('express');

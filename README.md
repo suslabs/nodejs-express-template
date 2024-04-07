@@ -8,7 +8,7 @@
 
   # WARNING! The file name is the actual path.
 
-  Example:
-  filename.js
-  You will be able to access it by the following address:
-  IP:PORT/api/filename
+Example:
+filename.js
+You will be able to access it by the following address:
+IP:PORT/api/filename

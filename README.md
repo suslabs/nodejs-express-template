@@ -1,6 +1,6 @@
 # NodeJS Express Template (with directory routes)
 
-* Usage
+Usage:
 - Make a duplicate of the file in the "routes/example.js.bkp" file
 - Rename it in the style of *.js (example: mogus.js)
 - Modify it by your need

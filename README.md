@@ -4,7 +4,7 @@ Usage:
 - Make a duplicate of the file in the "routes/example.js.bkp" folder
 - Rename it in the style of *.js (example: mogus.js)
 - Modify the code how you need it to be
-- Run index.js (node index.js)
+- Run index.js in the main directory (node index.js)
 
 # WARNING! The file name is the actual path.
 

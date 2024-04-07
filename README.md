@@ -9,7 +9,7 @@
 # WARNING! The file name is the actual path.
 
 Example:
-filename.js
+- filename.js
 
 You will be able to access it by the following address:
-IP:PORT/api/filename
+- IP:PORT/api/filename (IP&PORT are the variables set in index.js)

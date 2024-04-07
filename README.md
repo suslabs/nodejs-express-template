@@ -21,4 +21,5 @@ module.exports = router;
 ```
 
 Accessing IP:PORT/api/location will return all the information about your IP in JSON format.
+
 (P.S: IP and PORT are variables set in index.js)

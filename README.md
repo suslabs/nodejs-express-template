@@ -12,4 +12,4 @@ Example:
 - filename.js
 
 You will be able to access it by the following address:
-- IP:PORT/api/filename (IP&PORT are the variables set in index.js)
+- IP:PORT/api/filename (IP&PORT are variables set in index.js)

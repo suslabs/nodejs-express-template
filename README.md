@@ -4,6 +4,7 @@ Usage:
 - Duplicate the file located in the "routes/example.js.bkp" folder.
 - Rename the duplicated file with a *.js extension (for example: mogus.js).
 - Modify the code according to your requirements.
+- Install NodeJS Modules (npm install)
 - Run index.js located in the main directory (node index.js).
 
 # File Example (location.js):
@@ -31,3 +32,8 @@ Accessing IP:PORT/api/location will return all the information about your IP in 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+<h1 align="center">
+    <img src="https://i.imgur.com/oDZ2nYI.png" alt="EL LEVERT" style="width:75%;height:50%;">
+</h1>
